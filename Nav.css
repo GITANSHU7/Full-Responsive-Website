@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: white;
+  color: black;
+  font-family: Arial;
+  widows: 100px;
+  border-color: black;
+  border: black;
+  padding-top: 0.3cm;
+}
+
+.nav-links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+img {
+  height: 70px;
+  width: 5cm;
+  margin-left: -0.5cm;
+  margin-bottom: 0.5cm;
+}
